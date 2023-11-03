@@ -9,9 +9,6 @@ Moda App uygulaması, bu uygulama sadece tasarım uygulamasıdır.
 - Sadece tasarım UI/UX uygulamasıdır harici uygulamanın içinde birçok animasyon mevcuttur.
 
 ## Ekran Görüntüleri
-![Screenshot_1647376737_google-pixel4xl-justblack-portrait](https://github.com/HakanOzsoyler/moda_app/assets/77840330/6d2d8660-c217-46b9-b9dd-142a6c002659)
-![Screenshot_1647376731_google-pixel4xl-justblack-portrait](https://github.com/HakanOzsoyler/moda_app/assets/77840330/2ccf1e12-cd6e-4841-a66b-2a0bfd09b77f)
-![Screenshot_1647376722_google-pixel4xl-justblack-portrait](https://github.com/HakanOzsoyler/moda_app/assets/77840330/8724672f-44a6-440c-a712-a0ba6ee260e5)
 
 Uygulamanın bazı ekran görüntülerini aşağıda bulabilirsiniz:
 
